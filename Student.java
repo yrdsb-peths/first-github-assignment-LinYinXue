@@ -3,7 +3,7 @@ public class Student
   public String firstName;
   public int gradeLevel;
   
-  public Student(String name, String grade)
+  public Student(String name, int grade)
   {
      firstName =name;
      gradeLevel = grade;
