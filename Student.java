@@ -1,7 +1,7 @@
 public class Student
 {
-  public String firstName;
-  public int gradeLevel;
+  private String firstName;
+  private int gradeLevel;
   
   public Student(String name, int grade)
   {
