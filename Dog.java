@@ -1,7 +1,7 @@
 public class Dog
 {
-  public String dogName;
-  public String dogBreed;
+  private String dogName;
+  private String dogBreed;
   
   public Dog(String name, String breed)
   {
