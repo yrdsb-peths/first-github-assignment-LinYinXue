@@ -12,4 +12,5 @@ public class Dog
   public String toString()
   {
     return "Dog's name: " + dogName + "\nBreed: " + dogBreed;
+  }
 }
