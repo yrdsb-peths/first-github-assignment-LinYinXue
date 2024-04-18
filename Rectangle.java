@@ -12,8 +12,10 @@ public class Rectangle
   public int getArea()
   {
      return width* height;
+  }
 
   public String toString()
   {
     return "width: " + width + "height: " + height;
+  }
 }
