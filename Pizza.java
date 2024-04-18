@@ -16,4 +16,5 @@ public class Pizza
   public String toString()
   {
     return "Type: " + type + "\nTopping: " + topping + "\nSize: " + size+ "\nPrice:" + price;
+  }
 }
